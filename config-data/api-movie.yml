@@ -6,8 +6,8 @@ spring:
   datasource:
     driverClassName: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/digitalhouse-dev
-    username: root
-    password: DigitalEternal37
+    username: usr-digitalhouse
+    password: pwd-digitalhouse
   jpa:
     hibernate.ddl-auto: update
     generate-ddl: true
